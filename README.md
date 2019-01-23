@@ -54,6 +54,10 @@ _$5,000 for human data projects (ex. genetic, activity or social media data) tha
 https://www.opportunityfund.org/ <br>
 _Opportunity Fund is California's leading microfinance provider. Opportunity Fund believes that everyone should have the chance to build a dignified life, regardless of economic background. Our role is to help working families realize their dreams and move beyond worrying about how to live day to day._
 
+## Phoenix Grants
+http://phoenixgrants.org/ <br>
+_Phoenix Grants is providing risk capital to empower individuals to build a better future through education or innovation. Launching in 2019, will provide quarterly grants of up to $1,000 for individuals looking to pursue new education or working on innovative projects to enhance the world. Registered as an New Jersey Non-Profit._
+
 ## Pioneer
 https://pioneer.app/ <br>
 _Pioneer is building a community of creative young people working on interesting projects around the globe. Pioneers receive $1,000 with the possibility for a $100,000 follow-on, a round-trip ticket to San Francisco, $6,000 in Stellar Lumens, $100,000 in Google Cloud credits, and access to a private online forum with other Pioneers._
